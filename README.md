@@ -1,0 +1,1 @@
+Quick and easy app for me to test how good can I be in different language. Made in about 20 minutes without any previous python experience, just for the fun of it.
